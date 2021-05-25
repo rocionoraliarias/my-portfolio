@@ -302,8 +302,12 @@ h2 {
         -ms-flex-align: center;
             align-items: center;
   }
+  .AboutMe-wrapper .Mac-container {
+    margin-right: 0px;
+  }
   .AboutMe-wrapper .name-container {
     width: auto;
+    padding: 0 30px;
   }
   .AboutMe-wrapper .name-container .text-container {
     text-align: justify;
@@ -316,6 +320,9 @@ h2 {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   .devices-container img {
     margin-bottom: 10px;
