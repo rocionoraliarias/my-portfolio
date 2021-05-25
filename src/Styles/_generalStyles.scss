@@ -255,6 +255,15 @@ display: flex;
         display: initial;
     }
     }
+
+    .popup{
+     right: 0;
+    margin: 20px;
+    width: 300px;
+    img{
+        width: inherit;
+    }
+    }
   }
 
   .vertical-timeline-element-date{

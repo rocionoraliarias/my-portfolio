@@ -330,6 +330,14 @@ h2 {
   .content-footer ul {
     display: initial;
   }
+  .popup {
+    right: 0;
+    margin: 20px;
+    width: 300px;
+  }
+  .popup img {
+    width: inherit;
+  }
 }
 
 .vertical-timeline-element-date {
