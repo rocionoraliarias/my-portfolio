@@ -58,7 +58,7 @@
         "title": "Esteban",
         "description": "Esteban es un chat-bot pensando para oflecerle al usuario ideas de comida basado en su estado de animo. Diseño mobile first, manejo de rutas con react-router-dom",
         "images": [
-          "/Images/Esteban.png",
+          "/Images/esteban.png",
           "/Images/Esteban-web.png"
         ],
         "repositorio": "https://github.com/rocionoraliarias/Esteban-My-bot",
