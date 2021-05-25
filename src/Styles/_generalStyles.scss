@@ -144,16 +144,18 @@ display: flex;
 
 .popup{
     background-color: $third-color;
-    width: auto;
+    width: 40%;
     height: auto;
     z-index: 999;
     position: fixed;
     top: 200px;
-    margin: 0 30%;
+    left: 0;
+    right: 0;
+    margin: auto;
     padding: 40px;
     text-align: center;
     img{
-        width: 400px;
+        width: 350px;
         border: 1px solid $secondary-color;
         border-radius: 7px;
     }
@@ -257,9 +259,7 @@ display: flex;
     }
 
     .popup{
-     right: 0;
-    margin: 20px;
-    width: 300px;
+    width: 70%;
     img{
         width: inherit;
     }

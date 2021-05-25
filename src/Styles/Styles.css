@@ -196,18 +196,20 @@ h2 {
 
 .popup {
   background-color: #fafafa;
-  width: auto;
+  width: 40%;
   height: auto;
   z-index: 999;
   position: fixed;
   top: 200px;
-  margin: 0 30%;
+  left: 0;
+  right: 0;
+  margin: auto;
   padding: 40px;
   text-align: center;
 }
 
 .popup img {
-  width: 400px;
+  width: 350px;
   border: 1px solid #0a1931;
   border-radius: 7px;
 }
@@ -331,9 +333,7 @@ h2 {
     display: initial;
   }
   .popup {
-    right: 0;
-    margin: 20px;
-    width: 300px;
+    width: 70%;
   }
   .popup img {
     width: inherit;
