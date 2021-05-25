@@ -1,0 +1,29 @@
+@import './generalStyles';
+@import './Normalize';
+
+$primary-font-color-dark: #f28482;
+$primary-colo-dark: #62727b;
+$secondary-color-dark: #0a1931;
+$third-color : #fafafa;
+body {
+    background-color: #ffddd2;
+    h1{
+      color: #293241;
+    }
+  }
+  
+  body[data-theme="light"] {
+    background-color: #ffddd2;
+  }
+  
+  body[data-theme="dark"] {
+    background-color: $primary-colo-dark;
+    --slider-transition-duration: 575ms;
+    h1{
+      color: $primary-font-color-dark;
+    }
+    h2{
+      color:$primary-font-color-dark;
+    }
+
+  }

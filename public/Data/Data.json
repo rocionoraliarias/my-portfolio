@@ -1,0 +1,164 @@
+[{
+    "main": [{
+      "name": "Hola, Mi nombre es Rocio Norali Arias!",
+      "title": "Front-end Developer",
+      "section":"<Sobre Mi/>",
+      "description": "Soy una front end developer , entusiasta de las nuevas tecnologías y siempre lista para adquirir nuevos conocimientos. Actualmente trabajando con JavaScript,React, Express, HTML5, CSS3, SASS, Styeld Components y Responsive Web Design y estudiando diseño UX/UI. Me gusta estar actualizada en las últimas practicas del diseño y la programación para aplicarlas en mis desarrollos. Actualmente me encuentro trabajando en Technisys, una fintech de origen argentino con presencia en varios países al rededor del mundo. Te invito a conocer mi portfolio para aprender más acerca de mí.",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ]
+    }],
+    "resume": {
+      "skills": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original-wordmark colored"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored"
+        },
+        {
+          "name": "My Sql",
+          "class": "devicon-mysql-plain colored"
+        },
+        {
+          "name": "Xd",
+          "class": "devicon-xd-plain colored"
+        }
+      ]
+    },
+    "projects": [
+      {
+        "title": "Esteban",
+        "description": "Esteban es un chat-bot pensando para oflecerle al usuario ideas de comida basado en su estado de animo. Diseño mobile first, manejo de rutas con react-router-dom",
+        "images": [
+          "/Images/Esteban.png",
+          "/Images/Esteban-web.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/Esteban-My-bot",
+        "url": "https://esteban-my-bot.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "css3"
+          }
+        ]
+      },
+      {
+        "title": "Blue Dot",
+        "description": "Landing Page tematica sobre podcasts de tecnologia. Diseño mobile first.",
+        "images": [
+          "/Images/podcast.png",
+          "/Images/blue-dot.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/blue-dot-podcast",
+        "url": "https://blue-dot-podcast.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-sass-original colored",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "Pokedex",
+        "description": "Pokedex es una aplicacion diseñada para brindarle al usuario los datos de sus busquedas de pokemon utilizando Context Api. Diseño mobile first.",
+        "images": [
+          "/Images/pikachu.png",
+          "/Images/Pokedex-web.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/Pokedex",
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-sass-original colored",
+            "name": "sass"
+          }
+        ]
+      }
+    ],
+    "title": "<Experiencia/>",
+    "experience": 
+    [{
+        "company": "Technisys",
+        "title": "Front-End Developer",
+        "years": "08.2020 - Presente",
+        "location": "Bs.As. - Argentina",
+        "detail" :" Trabajando con JavaScript, React, HTML5, CSS3, SASS, Styled Components, GIT, Jira , Bitbucket y Gitkraken"
+      },{
+        "company": "Coderhouse",
+        "title": "Tutora React JS",
+        "years": "04.2021 - Presente",
+        "location": "Bs.As. - Argentina",
+        "detail" :"Tutoria a alumnos"
+      },
+      {
+        "company": "Freelance",
+        "title": "Front-End Developer",
+        "years": "07.2019 - 07.2020",
+        "location": "Bs.As. - Argentina",
+        "detail" :"JavaScript, HTML5, CSS3, SASS , NodeJs y  base de datos."
+      }]
+  }]

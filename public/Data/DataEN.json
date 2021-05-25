@@ -1,0 +1,166 @@
+  [{
+    "main": [{
+      "name": "Hi, Mi name is Rocio Norali Arias!",
+      "title": "Front-end Developer",
+      "section":"<About Me/>",
+      "description": "I am a front end developer, enthusiastic about new technologies and always ready to acquire new knowledge. Currently working with JavaScript, React, Express, HTML5, CSS3, SASS, Styled Components and Responsive Web Design. And studying UX / UI design. I like to be up-to-date on the latest design and programming practices to apply them in my developments. I am currently working at Technisys, a fintech of Argentine origin with a presence in several countries around the world.I invite you to visit my portfolio to learn more about me. ",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ]
+    }],
+    "resume": {
+      "skills": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original-wordmark colored"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored"
+        },
+        {
+          "name": "My Sql",
+          "class": "devicon-mysql-plain colored"
+        },
+        {
+          "name": "Xd",
+          "class": "devicon-xd-plain colored"
+        }
+      ]
+    },
+    "projects": 
+    [
+      {
+        "title": "Esteban",
+        "description": "Esteban is a chat-bot thought-out to offer the user food ideas based on their mood. Mobile first design, route management with react-router-dom.",
+        "images": [
+          "/Images/Esteban.png",
+          "/Images/Esteban-web.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/Esteban-My-bot",
+        "url": "https://esteban-my-bot.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "css3"
+          }
+        ]
+      },
+      {
+        "title": "Blue Dot",
+        "description": "Landing Page about technology podcasts. Mobile first design.",
+        "images": [
+          "/Images/podcast.png",
+          "/Images/blue-dot.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/blue-dot-podcast",
+        "url": "https://blue-dot-podcast.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-sass-original colored",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "Pokedex",
+        "description": "Pokedex is an application designed to provide the user with data from their pokemon searches using Context Api. Mobile first design.",
+        "images": [
+          "/Images/pikachu.png",
+          "/Images/Pokedex-web.png"
+        ],
+        "repositorio": "https://github.com/rocionoraliarias/Pokedex",
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-sass-original colored",
+            "name": "sass"
+          }
+        ]
+      }
+    ],
+    "title": "<Experience/>",
+    "experience": [
+      {
+        "company": "Technisys",
+        "title": "Front-End Developer",
+        "years": "08.2020 - Presente",
+        "location": "Bs.As. - Argentina",
+        "detail" :"Working with JavaScript, React, HTML5, CSS3, SASS, Styled Components, GIT, Jira , Bitbucket y Gitkraken"
+      },{
+        "company": "Coderhouse",
+        "title": "Tutora React JS",
+        "years": "04.2021 - Presente",
+        "location": "Bs.As. - Argentina",
+        "detail" :"Tutorship"
+      },
+      {
+        "company": "Freelance",
+        "title": "Front-End Developer",
+        "years": "07.2019 - 07.2020",
+        "location": "Bs.As. - Argentina",
+        "detail" :"I've working with JavaScript, HTML5, CSS3, SASS , NodeJs and database . Mobile First Design"
+      }
+    ]
+  }]
